@@ -17,9 +17,8 @@ I'm a Product and UX/UI Designer passionate about turning complex ideas into int
 - **[Dividerm](https://sugared-custard-cad.notion.site/Dividerm-Website-Design-1b9bb0bb633d8139afcacd9744528ec1?pvs=25)** — *UI/UX, Brand Web Design*
 
 ### :zap: My recent commits:
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 ### 📫 Get In Touch
 - 📨 **Email:** [jmop9733@gmail.com](mailto:jmop9733@gmail.com)
