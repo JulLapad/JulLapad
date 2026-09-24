@@ -2,8 +2,11 @@ name: Update README2
 
 on:
   schedule:
-    - cron: "* */12 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -11,8 +14,12 @@ jobs:
     name: Update Profile README
 
     steps:
-      - uses: actions/checkout@v4.2.2
-      
-      - uses: Readme-Workflows/recent-activity@v2.4.1
+      - name: Check out repository
+        uses: actions/checkout@v4.2.2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update recent activity
+        uses: Readme-Workflows/recent-activity@<latest-supported-version>
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
