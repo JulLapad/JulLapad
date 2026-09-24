@@ -1,7 +1,4 @@
-- name: Update recent activity
-  uses: Readme-Workflows/recent-activity@<verified-commit-sha>
-  env:
-    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+name: Update README2
 
 on:
   schedule:
@@ -13,8 +10,8 @@ permissions:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
     name: Update Profile README
+    runs-on: ubuntu-latest
 
     steps:
       - name: Check out repository
@@ -23,6 +20,6 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Update recent activity
-        uses: Readme-Workflows/recent-activity@<latest-supported-version>
+        uses: Readme-Workflows/recent-activity@a0648ccdc745a4597623df25cfc1150652f8a7ca
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
