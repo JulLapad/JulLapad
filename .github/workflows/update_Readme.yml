@@ -1,4 +1,7 @@
-name: Update README2
+- name: Update recent activity
+  uses: Readme-Workflows/recent-activity@<verified-commit-sha>
+  env:
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 on:
   schedule:
