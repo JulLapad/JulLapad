@@ -16,6 +16,11 @@ I'm a Product and UX/UI Designer passionate about turning complex ideas into int
 - **[Perfect B - Tattoo Removal Calculator](https://sugared-custard-cad.notion.site/Perfect-B-Tattoo-Removal-Calculator-20bbb0bb633d800a8e4af91cc877b0d1?pvs=25)** — *UI/UX, Web Design*
 - **[Dividerm](https://sugared-custard-cad.notion.site/Dividerm-Website-Design-1b9bb0bb633d8139afcacd9744528ec1?pvs=25)** — *UI/UX, Brand Web Design*
 
+### :zap: My recent commits:
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ### 📫 Get In Touch
 - 📨 **Email:** [jmop9733@gmail.com](mailto:jmop9733@gmail.com)
 - 💼 **LinkedIn:** [My Profile](https://www.linkedin.com/in/j-olivares-060397/)
