@@ -18,14 +18,14 @@ I'm a Product and UX/UI Designer passionate about turning complex ideas into int
 
 ### :zap: My recent commits:
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [JulLapad-Studio/.github](https://github.com/JulLapad-Studio/.github)<br>
-2. ⬆️ Pushed undefined commit(s) to [JulLapad/miPrimerRepo](https://github.com/JulLapad/miPrimerRepo)<br>
-3. ⬆️ Pushed undefined commit(s) to [JulLapad/miPrimerRepo](https://github.com/JulLapad/miPrimerRepo)<br>
-4. ⬆️ Pushed undefined commit(s) to [JulLapad/miPrimerRepo](https://github.com/JulLapad/miPrimerRepo)<br>
-5. ⬆️ Pushed undefined commit(s) to [JulLapad/miPrimerRepo](https://github.com/JulLapad/miPrimerRepo)<br>
+1. ⬆️ Pushed undefined commit(s) to [JulLapad/JulLapad](https://github.com/JulLapad/JulLapad)<br>
+2. ⬆️ Pushed undefined commit(s) to [JulLapad/JulLapad](https://github.com/JulLapad/JulLapad)<br>
+3. ⬆️ Pushed undefined commit(s) to [JulLapad/JulLapad](https://github.com/JulLapad/JulLapad)<br>
+4. ⬆️ Pushed undefined commit(s) to [JulLapad/JulLapad](https://github.com/JulLapad/JulLapad)<br>
+5. ⬆️ Pushed undefined commit(s) to [JulLapad/JulLapad](https://github.com/JulLapad/JulLapad)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 24th, 2026, 12:27:39 PM
+Last Updated: Friday, September 25th, 2026, 2:16:00 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### 📫 Get In Touch
