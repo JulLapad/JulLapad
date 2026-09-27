@@ -18,14 +18,14 @@ I'm a Product and UX/UI Designer passionate about turning complex ideas into int
 
 ### :zap: My recent commits:
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [JulLapad/mi-cuarto-repo](https://github.com/JulLapad/mi-cuarto-repo)<br>
-2. ⬆️ Pushed undefined commit(s) to [JulLapad/mi-cuarto-repo](https://github.com/JulLapad/mi-cuarto-repo)<br>
-3. 💪 Opened PR [#3](undefined) in [JulLapad/mi-cuarto-repo](https://github.com/JulLapad/mi-cuarto-repo)<br>
-4. ⬆️ Pushed undefined commit(s) to [JulLapad/mi-cuarto-repo](https://github.com/JulLapad/mi-cuarto-repo)<br>
-5. 💪 Opened PR [#2](undefined) in [JulLapad/mi-cuarto-repo](https://github.com/JulLapad/mi-cuarto-repo)<br>
+1. ✌️ Released [v0.1.2](https://github.com/JulLapad/NPM_Flask_tercerRepo/releases/tag/v0.1.2) in [JulLapad/NPM_Flask_tercerRepo](https://github.com/JulLapad/NPM_Flask_tercerRepo)<br>
+2. ⬆️ Pushed undefined commit(s) to [JulLapad/NPM_Flask_tercerRepo](https://github.com/JulLapad/NPM_Flask_tercerRepo)<br>
+3. ⬆️ Pushed undefined commit(s) to [JulLapad/miPrimerRepo](https://github.com/JulLapad/miPrimerRepo)<br>
+4. ✌️ Released [v0.1.1](https://github.com/JulLapad/NPM_Flask_tercerRepo/releases/tag/v0.1.1) in [JulLapad/NPM_Flask_tercerRepo](https://github.com/JulLapad/NPM_Flask_tercerRepo)<br>
+5. ⬆️ Pushed undefined commit(s) to [JulLapad/NPM_Flask_tercerRepo](https://github.com/JulLapad/NPM_Flask_tercerRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 27th, 2026, 2:17:08 AM
+Last Updated: Sunday, September 27th, 2026, 3:56:00 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### 📫 Get In Touch
